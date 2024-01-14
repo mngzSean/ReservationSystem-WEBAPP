@@ -37,6 +37,15 @@ export const items = [
     )
   },
   {
+    title: 'Facilities',
+    path: '/facilities',
+    icon: (
+      <SvgIcon fontSize="small">
+        <UsersIcon />
+      </SvgIcon>
+    )
+  },
+  {
     title: 'Companies',
     path: '/companies',
     icon: (
