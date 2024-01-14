@@ -93,7 +93,7 @@ const Page = () => {
             >
               <Stack spacing={1}>
                 <Typography variant="h4">
-                  Facilities
+                  시설
                 </Typography>
                 <Stack
                   alignItems="center"

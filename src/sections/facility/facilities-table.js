@@ -49,7 +49,7 @@ export const FacilitiesTable = (props) => {
                         onDeselectAll?.();
                       }
                     }}
-                  />item
+                  />
                 </TableCell>
                 <TableCell>
                   이름
